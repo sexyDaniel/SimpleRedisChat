@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SimpleRedisChat": {
+      "commandName": "Project"
+    },
+    "SimpleRedisChat2": {
+      "commandName": "Project"
+    }
+  }
+}
